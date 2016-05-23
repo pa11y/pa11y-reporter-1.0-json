@@ -67,15 +67,15 @@ Copyright &copy; 2015, Springer Nature
 
 
 [npm]: https://www.npmjs.com/
-[pa11y]: https://github.com/springernature/pa11y
+[pa11y]: https://github.com/pa11y/pa11y
 
-[info-dependencies]: https://gemnasium.com/springernature/pa11y-reporter-1.0-json
+[info-dependencies]: https://gemnasium.com/pa11y/pa11y-reporter-1.0-json
 [info-license]: LICENSE
 [info-node]: package.json
 [info-npm]: https://www.npmjs.com/package/pa11y-reporter-1.0-json
-[info-build]: https://travis-ci.org/springernature/pa11y-reporter-1.0-json
-[shield-dependencies]: https://img.shields.io/gemnasium/springernature/pa11y-reporter-1.0-json.svg
+[info-build]: https://travis-ci.org/pa11y/pa11y-reporter-1.0-json
+[shield-dependencies]: https://img.shields.io/gemnasium/pa11y/pa11y-reporter-1.0-json.svg
 [shield-license]: https://img.shields.io/badge/license-LGPL%203.0-blue.svg
 [shield-node]: https://img.shields.io/node/v/pa11y-reporter-1.0-json.svg?label=node.js%20support
 [shield-npm]: https://img.shields.io/npm/v/pa11y-reporter-1.0-json.svg
-[shield-build]: https://img.shields.io/travis/springernature/pa11y-reporter-1.0-json/master.svg
+[shield-build]: https://img.shields.io/travis/pa11y/pa11y-reporter-1.0-json/master.svg
