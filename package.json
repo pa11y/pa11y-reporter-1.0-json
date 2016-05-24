@@ -12,10 +12,10 @@
 
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/springernature/pa11y-reporter-1.0-json.git"
+		"url": "https://github.com/pa11y/pa11y-reporter-1.0-json.git"
 	},
-	"homepage": "https://github.com/springernature/pa11y-reporter-1.0-json",
-	"bugs": "https://github.com/springernature/pa11y-reporter-1.0-json/issues",
+	"homepage": "https://github.com/pa11y/pa11y-reporter-1.0-json",
+	"bugs": "https://github.com/pa11y/pa11y-reporter-1.0-json/issues",
 	"license": "LGPL-3.0",
 
 	"engines": {
