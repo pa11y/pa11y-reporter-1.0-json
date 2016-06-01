@@ -1,8 +1,8 @@
 
-pa11y JSON 1.0 reporter
+Pa11y JSON 1.0 Reporter
 =======================
 
-A reporter for [pa11y][pa11y] 2.0 which outputs 1.0-style JSON.
+A reporter for [Pa11y][pa11y] 2.0+ which outputs 1.0-style JSON.
 
 [![NPM version][shield-npm]][info-npm]
 [![Node.js version support][shield-node]][info-node]
@@ -18,7 +18,7 @@ pa11y --reporter 1.0-json nature.com
 Usage
 -----
 
-Install pa11y and pa11y-reporter-1.0-json with [npm][npm]:
+Install Pa11y and Pa11y JSON 1.0 Reporter with [npm][npm]:
 
 ```
 npm install -g pa11y
@@ -50,7 +50,7 @@ You'll get the 1.0-style JSON:
 Contributing
 ------------
 
-To contribute to pa11y-reporter-1.0-json, clone this repo locally and commit your code on a separate branch.
+To contribute to Pa11y JSON 1.0 Reporter, clone this repo locally and commit your code on a separate branch.
 
 Please check that everything works by running the following before opening a pull-request:
 
@@ -62,20 +62,20 @@ make ci
 License
 -------
 
-pa11y-reporter-1.0-json is licensed under the [Lesser General Public License (LGPL-3.0)][info-license].  
+Pa11y JSON 1.0 Reporter is licensed under the [Lesser General Public License (LGPL-3.0)][info-license].  
 Copyright &copy; 2015, Springer Nature
 
 
 [npm]: https://www.npmjs.com/
 [pa11y]: https://github.com/pa11y/pa11y
 
-[info-dependencies]: https://gemnasium.com/pa11y/pa11y-reporter-1.0-json
+[info-dependencies]: https://gemnasium.com/pa11y/reporter-1.0-json
 [info-license]: LICENSE
 [info-node]: package.json
 [info-npm]: https://www.npmjs.com/package/pa11y-reporter-1.0-json
-[info-build]: https://travis-ci.org/pa11y/pa11y-reporter-1.0-json
-[shield-dependencies]: https://img.shields.io/gemnasium/pa11y/pa11y-reporter-1.0-json.svg
+[info-build]: https://travis-ci.org/pa11y/reporter-1.0-json
+[shield-dependencies]: https://img.shields.io/gemnasium/pa11y/reporter-1.0-json.svg
 [shield-license]: https://img.shields.io/badge/license-LGPL%203.0-blue.svg
 [shield-node]: https://img.shields.io/node/v/pa11y-reporter-1.0-json.svg?label=node.js%20support
 [shield-npm]: https://img.shields.io/npm/v/pa11y-reporter-1.0-json.svg
-[shield-build]: https://img.shields.io/travis/pa11y/pa11y-reporter-1.0-json/master.svg
+[shield-build]: https://img.shields.io/travis/pa11y/reporter-1.0-json/master.svg
