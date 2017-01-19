@@ -62,8 +62,8 @@ make ci
 License
 -------
 
-Pa11y JSON 1.0 Reporter is licensed under the [Lesser General Public License (LGPL-3.0)][info-license].  
-Copyright &copy; 2015, Springer Nature
+Pa11y JSON 1.0 Reporter is licensed under the [Lesser General Public License (LGPL-3.0)][info-license].<br/>
+Copyright &copy; 2015–2017, Team Pa11y
 
 
 [npm]: https://www.npmjs.com/
