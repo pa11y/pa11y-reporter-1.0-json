@@ -1,6 +1,10 @@
 
 # History
 
+## 1.0.3 (2017-09-28)
+
+  * Announce deprecation
+
 ## 1.0.2 (2016-02-09)
 
   * Update repository references to springernature
