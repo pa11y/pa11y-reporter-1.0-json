@@ -1,6 +1,5 @@
 
-Pa11y JSON 1.0 Reporter
-=======================
+# Pa11y JSON 1.0 Reporter [Deprecated]
 
 A reporter for [Pa11y][pa11y] 2.0+ which outputs 1.0-style JSON.
 
@@ -13,6 +12,10 @@ A reporter for [Pa11y][pa11y] 2.0+ which outputs 1.0-style JSON.
 ```sh
 pa11y --reporter 1.0-json nature.com
 ```
+
+:skull: **Please note: this reporter is now deprecated and will no longer be supported by the Pa11y team.** :skull: 
+
+Refer to the [Pa11y Migration Guide][pa11y-migration] to update any applications that still expect Pa11y 1.0 JSON format. Alternatively, you're welcome to published your own reporter using [modern Pa11y's reporters interface][pa11y-reporters].
 
 
 Usage
@@ -68,6 +71,8 @@ Copyright &copy; 2015–2017, Team Pa11y
 
 [npm]: https://www.npmjs.com/
 [pa11y]: https://github.com/pa11y/pa11y
+[pa11y-migration]: https://github.com/pa11y/pa11y/blob/master/MIGRATION.md
+[pa11y-reporters]: https://github.com/pa11y/pa11y#reporters
 
 [info-dependencies]: https://gemnasium.com/pa11y/pa11y-reporter-1.0-json
 [info-license]: LICENSE
